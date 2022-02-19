@@ -1,0 +1,136 @@
+/* Rectangle 7 */
+.review-div {
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+
+/* Merch Example */
+.review-title {
+    width: 283px;
+    height: 16px;
+    float: right;
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+
+/* This is the description of the merch. */
+.review-description {
+    width: 283px;
+    height: 34px;
+
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 11px;
+
+    color: #000000;
+}
+
+
+/* Line 2 */
+.review-line {
+    width: 283px;
+    height: 0px;
+    margin-top: 10%;
+    border: 1px solid #E8E8E8;
+}
+
+.review-rating {
+    width: 52px;
+    height: 60px;
+    margin-top: 1%;
+    margin-left: 5%;
+    border-radius: 10px;
+}
+
+/* This is the description of the merch. */
+.merch-description {
+    width: 406px;
+    height: 16px;
+    left: 70px;
+    top: 208px;
+
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+/* Merch Example */
+.merch-title {
+    width: 283px;
+    height: 29px;
+    left: 206px;
+    top: 57px;
+
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 26px;
+
+    color: #000000;
+}
+
+
+/* Reviews: */
+#reviews {
+    width: 82px;
+    height: 29px;
+    left: 71px;
+    top: 229px;
+
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 20px;
+
+    color: #000000;
+}
+
+/* Line 3 */
+#line-3 {
+    position: absolute;
+    width: 283px;
+    height: 0px;
+    left: 206px;
+    top: 86px;
+
+    border: 1px solid #E8E8E8;
+}
+
+/* Line 4 */
+#line-4 {
+    position: absolute;
+    width: 283px;
+    height: 0px;
+    left: 206px;
+    top: 113px;
+
+    border: 1px solid #E8E8E8;
+}
+
+
+/* Line 5 */
+#review-line {
+    position: absolute;
+    width: 419px;
+    height: 0px;
+    left: 70px;
+    top: 224px;
+
+    border: 1px solid #E8E8E8;
+}

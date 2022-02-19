@@ -1,0 +1,94 @@
+/* Background */
+body {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #FFFFFF;
+}
+
+
+/* Header */
+header {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 92.44%;
+    
+    background: #7FFF00;
+}
+
+/* Footer */
+footer {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 95.21%;
+    bottom: 0%;
+
+    background: #7FFF00;
+}
+
+/* Alala Copyright 2022 */
+footer {
+    font-family: Sanchez;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 13px;
+    align-items: center;
+    text-align: center;
+
+    color: #4250D5;
+}
+
+
+/* Sign In */
+button {
+    position: absolute;
+    left: 85.25%;
+
+    background-color: #7FFF00;
+    border-radius: 12px;
+    border-color: #5B9049;
+    border-width: thin;
+
+    font-family: Sanchez;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #4250D5;
+}
+
+
+/* Alala */
+#name {
+    position: absolute;
+    left: 0%;
+    right: 71.95%;
+    top: 0%;
+    bottom: 92.44%;
+
+    font-family: Sanchez;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+
+    color: #4250D5;
+}
+
+/* Sign in */
+
+a, a:active, a:visited, a:hover {
+    color: #4250D5;
+    text-decoration: none;
+}

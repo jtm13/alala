@@ -1,0 +1,27 @@
+/* alala 1 */
+img {
+    position: absolute;
+    left: 35.52%;
+    right: 37.16%;
+    top: 10.83%;
+    bottom: 53.4%;
+    width: 32%
+}
+
+
+/* Welcome to Alala, Here, you can buy whatever is on your list. Whether it is groceries, clothes, furniture, or the latest tech. You buy it from our site and we will deliver ... (in 1 to 5 buisness days). However, we are more than just a rip-off Amazon or Alibaba. We are a retail site that wants to empower artists. Specifically, by using the blockchain. By minting NFTs of their copywritable artwork and creating an account, artists have control over how they want their artwork to be used. From setting up royalties for commercial usage to wanting your work no where near anything commercial, we are here for you. For more information, please contact us. */
+#description {
+    position: absolute;
+    left: 13.11%;
+    right: 16.21%;
+    top: 8.56%;
+    bottom: 4.79%;
+
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 20px;
+
+    color: #000000;
+}

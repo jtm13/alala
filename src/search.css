@@ -1,0 +1,95 @@
+/* Rectangle 7 */
+.merch-div {
+    background: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+
+/* Merch Example */
+.merch-title {
+    width: 283px;
+    height: 16px;
+    float: right;
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+
+/* This is the description of the merch. */
+.merch-description {
+    width: 283px;
+    height: 34px;
+
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 11px;
+
+    color: #000000;
+}
+
+
+/* Line 2 */
+.merch-line {
+    width: 283px;
+    height: 0px;
+    margin-top: 10%;
+    border: 1px solid #E8E8E8;
+}
+
+/* image 1 */
+.merch-image {
+    width: 52px;
+    height: 60px;
+    margin-top: 1%;
+    margin-left: 5%;
+    border-radius: 10px;
+}
+
+/* Search: */
+#search-text {
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 13px;
+
+    color: #000000;
+}
+
+form {
+    align-items: center;
+}
+
+iframe {
+    align-self: center;
+    width: 70%;
+    border:none;
+}
+
+/* Rectangle 6 */
+#search {
+    width: 294px;
+    height: 12px;
+    left: 134px;
+    top: 46px;
+
+    background: #E8E8E8;
+}
+
+/* Line 1 */
+#search-line {
+    width: 393px;
+    height: 0px;
+    left: 72px;
+    top: 68px;
+
+    border: 1px solid #E8E8E8;
+}

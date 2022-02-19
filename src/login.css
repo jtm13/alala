@@ -1,0 +1,19 @@
+/* alala 1 */
+img {
+    position: absolute;
+    left: 35.52%;
+    right: 37.16%;
+    top: 10.83%;
+    bottom: 53.4%;
+    width: 32%
+}
+
+label, #response {
+    font-family: Archivo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 20px;
+
+    color: #000000;
+}
