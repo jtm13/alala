@@ -1,7 +1,7 @@
 DIR = /c/xampp/htdocs/mine/hacks/
 SRC = src/
 
-all: 	login home search
+all: 	login home search products users
 
 login: normalize global favicon
 	cp $(SRC)login.* $(DIR)
@@ -11,6 +11,15 @@ home: normalize global favicon
 
 search: main normalize global favicon
 	cp $(SRC)search.* $(DIR)
+
+products: normalize global favicon
+	cp $(SRC)products.* $(DIR)
+
+users: user global normalize favicon
+	cp $(SRC)users.* $(DIR)
+
+user: container
+	cp $(SRC)user.php $(DIR)
 
 product : container normalize
 	cp $(SRC)product.php $(DIR)

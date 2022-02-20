@@ -102,25 +102,26 @@
 }
 
 /* Line 3 */
-#line-3 {
-    position: absolute;
-    width: 283px;
-    height: 0px;
-    left: 206px;
-    top: 86px;
-
-    border: 1px solid #E8E8E8;
+.buttons {
+    height: 27px;
+    width: 100%;
+    border-top: 1px solid #E8E8E8;
+    border-bottom: 1px solid #E8E8E8;
 }
 
-/* Line 4 */
-#line-4 {
-    position: absolute;
-    width: 283px;
-    height: 0px;
-    left: 206px;
-    top: 113px;
+#button-first {
+    position: relative;
+    left: 0%;
+    float: left;
+}
 
-    border: 1px solid #E8E8E8;
+#button-middle {
+    left: 15%;
+}
+
+#button-last {
+    position: relative;
+    left: 70%;
 }
 
 
